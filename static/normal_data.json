@@ -1,0 +1,78 @@
+[
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\Hill_Climb_Racing_1.0_Apkpure.apk",
+        "dependencies": [
+            "libAuxModule.so",
+            "libBxAds.so",
+            "libEasyShareMarmalade.so",
+            "libs3eAndroidMarketBilling.so",
+            "libs3e_android.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\hill_climb_racing_1.1_Apkpure.apk",
+        "dependencies": [
+            "libplayer.so",
+            "libplayer.so",
+            "libplayer.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\Hill_Climb_Racing_1.60.0_Apkpure.apk",
+        "dependencies": [
+            "libgame.so",
+            "libquack.so",
+            "libgame.so",
+            "libquack.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\Hill_Climb_Racing_4_1.0_Apkpure.apk",
+        "dependencies": [
+            "libplayer.so",
+            "libplayer.so",
+            "libplayer.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\Hill_Climb_Racing_7_Apkpure.apk",
+        "dependencies": [
+            "libApp-4.5.2.so",
+            "libAuth.so",
+            "libmain.so",
+            "libmono.so",
+            "libRemoteConfig.so",
+            "libStorage.so",
+            "libunity.so",
+            "libApp-4.5.2.so",
+            "libAuth.so",
+            "libmain.so",
+            "libmono.so",
+            "libRemoteConfig.so",
+            "libStorage.so",
+            "libunity.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\Racing_the_Hill_1.0.7_Apkpure.apk",
+        "dependencies": [
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\testapp\\Up_Hill_Drive_Car_Climb_Race_1.9.34_Apkpure.apk",
+        "dependencies": [
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so"
+        ]
+    }
+]

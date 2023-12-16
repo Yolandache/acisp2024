@@ -1,0 +1,58 @@
+[
+    {
+        "file_path": "D:\\fakeapp\\apps\\car_fake.apk",
+        "dependencies": [
+            "libcrashsdk.so",
+            "libCtaApiLib.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libpangleflipped.so",
+            "libsgcore.so",
+            "libsig_native.so",
+            "libumeng-spy.so",
+            "libunity.so",
+            "libcrashsdk.so",
+            "libCtaApiLib.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libpangleflipped.so",
+            "libsgcore.so",
+            "libsig_native.so",
+            "libumeng-spy.so",
+            "libunity.so",
+            "libcrashsdk.so",
+            "libCtaApiLib.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libpangleflipped.so",
+            "libsgcore.so",
+            "libsig_native.so",
+            "libumeng-spy.so",
+            "libunity.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\car_true.apk",
+        "dependencies": [
+            "libcocos2dcpp.so",
+            "libpangleflipped.so",
+            "libcocos2dcpp.so",
+            "libpangleflipped.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\climb_fake.apk",
+        "dependencies": [
+            "libMyGame.so"
+        ]
+    },
+    {
+        "file_path": "D:\\fakeapp\\apps\\climb_true.apk",
+        "dependencies": [
+            "libgame.so",
+            "libquack.so",
+            "libgame.so",
+            "libquack.so"
+        ]
+    }
+]

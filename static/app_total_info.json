@@ -1,0 +1,239 @@
+[
+    {
+        "file_path": {
+            "filename": "Hill_Climb_Racing_1.0_Apkpure.apk",
+            "filesize": 18226549,
+            "file_md5": "10c20dcbb2c365720acb96ec013c719e",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='com.mezanthanah.app6' versionCode='3' versionName='1.0' platformBuildVersionName='6.0-2438415'",
+            "package": "com.mezanthanah.app6",
+            "app_name": "Hill Climb Car",
+            "is_valid": "True",
+            "version_code": "3",
+            "version_name": "1.0",
+            "max_sdk": null,
+            "min_sdk": "11",
+            "target_sdk": "23",
+            "main_activity": "com.mezanthanah.app6.Main",
+            "signature_name": "META-INF/MEZANTHA.RSA",
+            "signature_names": [
+                "META-INF/MEZANTHA.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\Hill_Climb_Racing_1.0_Apkpure.apk"
+        },
+        "dependencies": [
+            "libAuxModule.so",
+            "libBxAds.so",
+            "libEasyShareMarmalade.so",
+            "libs3eAndroidMarketBilling.so",
+            "libs3e_android.so"
+        ]
+    },
+    {
+        "file_path": {
+            "filename": "hill_climb_racing_1.1_Apkpure.apk",
+            "filesize": 25340236,
+            "file_md5": "a45b8ade1c21d3d133f5f947c27c9e1d",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='com.hill.climb.racing.moto' versionCode='2' versionName='1.1'",
+            "package": "com.hill.climb.racing.moto",
+            "app_name": "Hill Climb Racing Moto",
+            "is_valid": "True",
+            "version_code": "2",
+            "version_name": "1.1",
+            "max_sdk": null,
+            "min_sdk": "14",
+            "target_sdk": "25",
+            "main_activity": "com.monster.track.gameadv.MacroDevs_MainActivity",
+            "signature_name": "META-INF/CERT.RSA",
+            "signature_names": [
+                "META-INF/CERT.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\hill_climb_racing_1.1_Apkpure.apk"
+        },
+        "dependencies": [
+            "libplayer.so",
+            "libplayer.so",
+            "libplayer.so"
+        ]
+    },
+    {
+        "file_path": {
+            "filename": "Hill_Climb_Racing_1.60.0_Apkpure.apk",
+            "filesize": 88873582,
+            "file_md5": "f0a8eeb5aa7d909529037e9a84ff36cf",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='com.fingersoft.hillclimb' versionCode='610' versionName='1.60.0' compileSdkVersion='33' compileSdkVersionCodename='13'",
+            "package": "com.fingersoft.hillclimb",
+            "app_name": "Hill Climb Racing",
+            "is_valid": "True",
+            "version_code": "610",
+            "version_name": "1.60.0",
+            "max_sdk": null,
+            "min_sdk": "19",
+            "target_sdk": "33",
+            "main_activity": "com.fingersoft.game.MainActivity",
+            "signature_name": "META-INF/COM_FING.RSA",
+            "signature_names": [
+                "META-INF/COM_FING.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\Hill_Climb_Racing_1.60.0_Apkpure.apk"
+        },
+        "dependencies": [
+            "libgame.so",
+            "libquack.so",
+            "libgame.so",
+            "libquack.so"
+        ]
+    },
+    {
+        "file_path": {
+            "filename": "Hill_Climb_Racing_4_1.0_Apkpure.apk",
+            "filesize": 18830009,
+            "file_md5": "49e211023c3e45e18f061f9d628a5ef8",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='climb.racing4' versionCode='1' versionName='1.0'",
+            "package": "climb.racing4",
+            "app_name": "Climb Racing 4",
+            "is_valid": "True",
+            "version_code": "1",
+            "version_name": "1.0",
+            "max_sdk": null,
+            "min_sdk": "14",
+            "target_sdk": "27",
+            "main_activity": "climb.racing4.PTPlayer",
+            "signature_name": "META-INF/CERT.RSA",
+            "signature_names": [
+                "META-INF/CERT.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\Hill_Climb_Racing_4_1.0_Apkpure.apk"
+        },
+        "dependencies": [
+            "libplayer.so",
+            "libplayer.so",
+            "libplayer.so"
+        ]
+    },
+    {
+        "file_path": {
+            "filename": "Hill_Climb_Racing_7_Apkpure.apk",
+            "filesize": 28706273,
+            "file_md5": "5cd0e41075181866d94b12cc9c2bede0",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='com.udksmdsds.spwsdss' versionCode='7' versionName='7' platformBuildVersionName='8.0.0'",
+            "package": "com.udksmdsds.spwsdss",
+            "app_name": "Hill Climb Racing",
+            "is_valid": "True",
+            "version_code": "7",
+            "version_name": "7",
+            "max_sdk": null,
+            "min_sdk": "16",
+            "target_sdk": "26",
+            "main_activity": "com.unity3d.player.UnityPlayerActivity",
+            "signature_name": "META-INF/NIKOLA.RSA",
+            "signature_names": [
+                "META-INF/NIKOLA.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\Hill_Climb_Racing_7_Apkpure.apk"
+        },
+        "dependencies": [
+            "libApp-4.5.2.so",
+            "libAuth.so",
+            "libmain.so",
+            "libmono.so",
+            "libRemoteConfig.so",
+            "libStorage.so",
+            "libunity.so",
+            "libApp-4.5.2.so",
+            "libAuth.so",
+            "libmain.so",
+            "libmono.so",
+            "libRemoteConfig.so",
+            "libStorage.so",
+            "libunity.so"
+        ]
+    },
+    {
+        "file_path": {
+            "filename": "Racing_the_Hill_1.0.7_Apkpure.apk",
+            "filesize": 38853048,
+            "file_md5": "a007e3e1cc523d58d9589bb7095c5716",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='com.dreamtechstudio.racing.the.hill' versionCode='8' versionName='1.0.7' compileSdkVersion='32' compileSdkVersionCodename='12'",
+            "package": "com.dreamtechstudio.racing.the.hill",
+            "app_name": "Racing The Hill",
+            "is_valid": "True",
+            "version_code": "8",
+            "version_name": "1.0.7",
+            "max_sdk": null,
+            "min_sdk": "19",
+            "target_sdk": "32",
+            "main_activity": "com.unity3d.player.UnityPlayerActivity",
+            "signature_name": "META-INF/CERT.RSA",
+            "signature_names": [
+                "META-INF/CERT.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\Racing_the_Hill_1.0.7_Apkpure.apk"
+        },
+        "dependencies": [
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so"
+        ]
+    },
+    {
+        "file_path": {
+            "filename": "Up_Hill_Drive_Car_Climb_Race_1.9.34_Apkpure.apk",
+            "filesize": 58477545,
+            "file_md5": "e1792af7f1a66257f769e765bfde8a74",
+            "cert_md5": "e",
+            "cert_sha1": "t",
+            "cert_sha256": "a",
+            "cert_sha512": "-",
+            "android_version": "name='com.kgo.hill.climbracing' versionCode='44' versionName='1.9.34' compileSdkVersion='33' compileSdkVersionCodename='13'",
+            "package": "com.kgo.hill.climbracing",
+            "app_name": "Car Climb Racing",
+            "is_valid": "True",
+            "version_code": "44",
+            "version_name": "1.9.34",
+            "max_sdk": null,
+            "min_sdk": "22",
+            "target_sdk": "33",
+            "main_activity": "com.unity3d.player.UnityPlayerActivity",
+            "signature_name": "META-INF/BNDLTOOL.RSA",
+            "signature_names": [
+                "META-INF/BNDLTOOL.RSA"
+            ],
+            "apk_path": "D:\\GitProject\\Fakeapp\\apps\\testapp\\Up_Hill_Drive_Car_Climb_Race_1.9.34_Apkpure.apk"
+        },
+        "dependencies": [
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so",
+            "libil2cpp.so",
+            "libmain.so",
+            "libunity.so"
+        ]
+    }
+]

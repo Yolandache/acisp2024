@@ -1,0 +1,32 @@
+[
+    {
+        "apk1": "D:\\fakeapp\\apps\\car_fake.apk",
+        "apk2": "D:\\fakeapp\\apps\\car_true.apk",
+        "similarity": 0.1
+    },
+    {
+        "apk1": "D:\\fakeapp\\apps\\car_fake.apk",
+        "apk2": "D:\\fakeapp\\apps\\climb_fake.apk",
+        "similarity": 0.0
+    },
+    {
+        "apk1": "D:\\fakeapp\\apps\\car_fake.apk",
+        "apk2": "D:\\fakeapp\\apps\\climb_true.apk",
+        "similarity": 0.0
+    },
+    {
+        "apk1": "D:\\fakeapp\\apps\\car_true.apk",
+        "apk2": "D:\\fakeapp\\apps\\climb_fake.apk",
+        "similarity": 0.0
+    },
+    {
+        "apk1": "D:\\fakeapp\\apps\\car_true.apk",
+        "apk2": "D:\\fakeapp\\apps\\climb_true.apk",
+        "similarity": 0.0
+    },
+    {
+        "apk1": "D:\\fakeapp\\apps\\climb_fake.apk",
+        "apk2": "D:\\fakeapp\\apps\\climb_true.apk",
+        "similarity": 0.0
+    }
+]
