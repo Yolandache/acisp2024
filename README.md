@@ -2,6 +2,7 @@
 This repository includes our works on an efficient and fine-grained method for detecting Android fake apps.
 
 The ideas behind our works can be abstracted and demonstrated in the following big picture.
+
 ![image](https://github.com/Yolandache/acisp2024/assets/114452130/5fa68dd6-c9e5-4c77-a796-f60985539fe8)
 
 ## Introduction
